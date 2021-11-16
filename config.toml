@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "BG Console"
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-hero-theme"
