@@ -1,0 +1,93 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BG Console – BG Platform</title>
+    <link>/docs/bgplatform/</link>
+    <description>Recent content in BG Platform on BG Console</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/bgplatform/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Perspective</title>
+      <link>/docs/bgplatform/perspective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/bgplatform/perspective/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The BG Platform is composed of multiple perspectives that are in a nutshell, the view your are seeing in the main window.
+The first perspective you will see is the Desk which is the one that helps you manage your profiles, workspaces and projects.
+The BG Console is indeed a perspective but of a special kind as you are about to discover.&lt;/p&gt;
+&lt;p&gt;The BG Platform provides a powerful mechanism to switch easily and navigate between the perspectives.&lt;/p&gt;
+&lt;p&gt;There are three types of perspectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The main perspective, the Desk is one of them. It can run only once.&lt;/li&gt;
+&lt;li&gt;The project perspective, BG Console is one of them. You can run as many BG Console as perspective as projects you have.&lt;/li&gt;
+&lt;li&gt;The component perspective, it is a panel usually used by a project or main perspective to show or edit information.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Profile</title>
+      <link>/docs/bgplatform/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/bgplatform/profile/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Workspace</title>
+      <link>/docs/bgplatform/workspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/bgplatform/workspace/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Project</title>
+      <link>/docs/bgplatform/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/bgplatform/project/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: File specs</title>
+      <link>/docs/bgplatform/file_spects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/bgplatform/file_spects/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
